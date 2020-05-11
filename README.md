@@ -1,10 +1,8 @@
-# buscadorgifs
+## Buscador de Gifs
 
-O melhor buscador de gifs
+App exemplo de consumo de API do GIPHY
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+### Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
